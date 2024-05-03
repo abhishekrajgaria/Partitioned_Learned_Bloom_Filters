@@ -68,3 +68,17 @@ PLBF.py - Provides the threshold value and fpr values to partition the data in d
 | model.py
 | vanilla_bloom_filter.py
 ```
+
+## Project Video
+
+Please watch our project video for a comprehensive overview and demonstration of our work.
+
+[Project Video](./src/video.mp4)
+
+## Documentation
+
+For detailed documentation regarding our project, and technical details, please refer to the following document:
+
+[Project Documentation](./src/project_report_final.pdf)
+
+Thank you for your interest in our class project! If you have any questions or feedback, feel free to reach out to us.
