@@ -13,5 +13,5 @@ class CharacterLevelGRU(nn.Module):
         print(embedded.shape())
         output, _ = self.gru(embedded.view(len(x), 1, -1))
         output = self.fc(output.view(len(x), -1))
-        output = self.sigmoid(output)  # Apply sigmoid activation function
+        output = self.sigmoid(output) 
         return output
